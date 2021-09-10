@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tic Tac Toe </string>
+    <string name="todo">TODO</string>
+    <string name="how_to_play">How To Play</string>
+    <string name="_1">1. The game is played on a grid that\'s 3 squares by 3 squares.</string>
+    <string name="_2">2. You are X, your friend is O. Players take turns putting their marks in empty squares.</string>
+    <string name="_3">3. The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.</string>
+    <string name="_4">4. When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.</string>
+    <string name="how_to_play_button">How to Play</string>
+    <string name="player_o_0">Player O = 0</string>
+    <string name="player_x_0">Player X = 0</string>
+    <string name="reset">Reset</string>
+    <string name="new_game">New Game</string>
+    <string name="two_player">Two Player</string>
+    <string name="single_player">Single Player</string>
+    <string name="online">Online</string>
+    <string name="draw_0">Draw = 0</string>
+    <string name="check_update">Check Update</string>
+    <string name="Banner_1">ca-app-pub-8242325082641643/6556225671</string>
+    <string name="Banner_2">ca-app-pub-8242325082641643/3306126247</string>
+    <string name="Banner_3">ca-app-pub-8242325082641643/3762734890</string>
+    <string name="Banner_4">ca-app-pub-8242325082641643/1801472888</string>
+    <string name="Banner_5">ca-app-pub-8242325082641643/2393812904</string>
+    <string name="Banner_6">ca-app-pub-8242325082641643/7983737859</string>
+    <string name="version_1_0_1">Version 1.0.1</string>
+    <string name="_2021_tic_tac_toe">© 2021 Tic Tac Toe</string>
+    <string name="app_info">App Info</string>
+    <string name="home">Home</string>
+    <string name="share">Share</string>
+    <string name="_3x3">3X3</string>
+    <string name="_5x5">5X5</string>
+    <string name="_4x4">4X4</string>
+    <string name="you_0">You = 0</string>
+    <string name="computer_0">Computer = 0</string>
+</resources>
